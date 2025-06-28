@@ -12,9 +12,9 @@ ext install cosmo theme
 
 ## Screenshot
 
-Screenshot of Ruby and JavaScript
+Screenshot of Python and TypeScript
 
-![Theme Screenshot](https://github.com/sociale11/vscode-cosmo/raw/HEAD/screenshot-v0.2.0.png)
+![Theme Screenshot](https://github.com/sociale11/vscode-cosmo/blob/main/screenshot-v0.1.2.png?raw=true)
 
 ## Change log
 

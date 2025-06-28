@@ -2,7 +2,7 @@
   "name": "cosmo",
   "displayName": "COSMO Theme",
   "description": "A theme with the COSMO Consult color palette.",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "publisher": "sociale11",
   "engines": {
     "vscode": "^1.13.0"
