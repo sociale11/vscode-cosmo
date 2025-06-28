@@ -1,0 +1,42 @@
+{
+  "name": "cosmo",
+  "displayName": "COSMO Theme",
+  "description": "A theme with the COSMO Consult color palette.",
+  "version": "0.1.1",
+  "publisher": "sociale11",
+  "engines": {
+    "vscode": "^1.13.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cosmo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cosmo-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sociale11/vscode-cosmo"
+  },
+  "bugs": {
+    "url": "https://github.com/sociale11/vscode-cosmo/issues"
+  },
+  "homepage": "https://github.com/sociale11/vscode-cosmo/blob/main/README.md",
+  "keywords": [
+    "Vscode",
+    "Theme",
+    "Cosmo"
+  ],
+  "author": "Pasquale Sociale <pasquale.sociale@gmail.com> (https://www.sociale11.com)",
+  "license": "MIT",
+  "__metadata": {
+    "installedTimestamp": 1743075825909,
+    "size": 382230
+  }
+}
